@@ -1,0 +1,23 @@
+# Site settings
+title: Hubrap Apps
+email: rahul@grokwithrahul.com
+url: hubrap.com
+description: "Hubrap Apps"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: Hubrap Apps
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: github
+    url: http://github.com/Hubrap
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
